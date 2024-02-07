@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Abdulaziz! 👋
 
-<!--
-**at-uzb/at-uzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with a strong foundation in web development technologies. I enjoy building robust and user-friendly web applications. Let me give you a glimpse of my skills and experiences.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React
+- **CSS Frameworks:** Bootstrap, Tailwind CSS
+- **Backend:** Django, Django Rest Framework
+- **Database:** PostgreSQL
+
+## 🚀 Projects
+
+Here are a few projects I've worked on:
+
+1. **Project Name 1**
+   - Description: Brief overview of the project.
+   - Technologies: React, Django, PostgreSQL, etc.
+   - GitHub Link: [Project 1](link-to-repository)
+
+2. **Project Name 2**
+   - Description: Brief overview of the project.
+   - Technologies: React, Django, PostgreSQL, etc.
+   - GitHub Link: [Project 2](link-to-repository)
+
+## 📈 GitHub Stats
+
+[![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/your-username)
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Handle](link-to-twitter)
+- Portfolio: [Your Portfolio Website](link-to-portfolio)
+
+Feel free to explore my repositories and reach out. I'm always open to collaboration and new opportunities!
