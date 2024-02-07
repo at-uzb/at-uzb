@@ -25,7 +25,7 @@ Here are a few projects I've worked on:
 
 ## 📈 GitHub Stats
 
-[![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/your-username)
+[![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/at-uzb)
 
 ## 📫 Let's Connect
 
