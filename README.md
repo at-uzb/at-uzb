@@ -1,7 +1,6 @@
 # Hi there, I'm Abdulaziz! 👋
 
-I'm a passionate Full Stack Developer with a strong foundation in web development technologies. I enjoy building robust and user-friendly web applications. Let me give you a glimpse of my skills and experiences.
-
+I'm a passionate Back-end Developer / Data analytic with a strong foundation in python. Let me give you a glimpse of my skills and experiences.
 ## 🔧 Skills
 
 - **Data-analysis:** python, numpy, pandas, seaborn, matplotlib, excel, sql
