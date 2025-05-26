@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with a strong foundation in web developmen
 
 ## 🔧 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Data-analysis:** python, numpy, pandas, seaborn, matplotlib, excel, sql
 - **Backend:** Django, Django Rest Framework
 - **Database:** PostgreSQL
 
