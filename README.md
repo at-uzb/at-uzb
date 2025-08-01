@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=at-uzb&show_icons=true&count_private=true&hide=contribs&theme=radical)
+![Abdulaziz's GitHub Stats](https://github-profile-trophy.vercel.app/?username=at-uzb&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
