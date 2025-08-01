@@ -12,7 +12,7 @@
 - SQL, Excel, Power BI
 
 ### 🧩 Back-End Development
-- Django, Django REST Framework (DRF)
+- Django, Django REST Framework, FastApi, Aiogram3
 - Redis, Celery, Docker
 - PostgreSQL
 - API Design & Deployment (PythonAnywhere, Render)
