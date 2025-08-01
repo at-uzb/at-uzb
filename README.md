@@ -33,7 +33,7 @@
 ## 🤝 Let's Connect
 
 - 💼 Open to freelance and job opportunities
-- 📬 Reach out via GitHub or Telegram: [@fulminar](https://t.me/at_uzb)
+- 📬 Reach out via GitHub or Telegram: [@fulminar](https://t.me/fulminar)
 
 ---
 
