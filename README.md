@@ -1,14 +1,40 @@
-# Hi there, I'm Abdulaziz! 👋
+# 👋 Hi there, I'm Abdulaziz Toshpulatov!
 
-I'm a passionate Back-end Developer / Data analytic with a strong foundation in python. Let me give you a glimpse of my skills and experiences.
-## 🔧 Skills
+🎯 A dedicated **Back-End Developer** and **Data Analyst** with a strong foundation in Python and real-world project experience in web APIs and data-driven solutions.
 
-- **Data-analysis:** python, numpy, pandas, seaborn, matplotlib, excel, sql
-- **Backend:** Django, Django Rest Framework
-- **Database:** PostgreSQL
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📊 Data Analysis
+- Python, NumPy, Pandas
+- Seaborn, Matplotlib
+- SQL, Excel, Power BI
+
+### 🧩 Back-End Development
+- Django, Django REST Framework (DRF)
+- Redis, Celery, Docker
+- PostgreSQL
+- API Design & Deployment (PythonAnywhere, Render)
+
+### ☁️ Tools & Other
+- Git, GitHub, Postman, Swagger
+- Linux CLI, VSCode
+- Familiar with AWS (S3)
+
+---
 
 ## 📈 GitHub Stats
 
-[![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=at-uzb&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/at-uzb)
+![Abdulaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=at-uzb&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
-Feel free to explore my repositories and reach out. I'm always open to collaboration and new opportunities!
+---
+
+## 🤝 Let's Connect
+
+- 💼 Open to freelance and job opportunities
+- 📬 Reach out via GitHub or Telegram: [@at_uzb](https://t.me/at_uzb)
+
+---
+
+Thanks for stopping by! ✨  
