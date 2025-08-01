@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-![Abdulaziz's GitHub Stats](https://github-profile-trophy.vercel.app/?username=at-uzb&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Abdulaziz's GitHub Stats](https://github-profile-trophy.vercel.app/?username=at-uzb&theme=dracula&margin-w=15)]
 
 ---
 
